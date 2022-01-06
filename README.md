@@ -1,2 +1,6 @@
 # chale-hotel-site-ficticio
-Projeto de curso um de desenvolvimento web 
+
+Projeto do curso de Desenvolvimento Web
+
+- Treinar HTML e CSS
+- Design responsivo
