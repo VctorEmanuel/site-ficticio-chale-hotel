@@ -1,2 +1,2 @@
 # chale-hotel-site-ficticio
-Projeto de um de desenvolvimento web 
+Projeto de curso um de desenvolvimento web 
